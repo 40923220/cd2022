@@ -1,4 +1,1 @@
-# cmstemplate
-Github pages template for cmsimde submodule
-
-http://mde.tw/cmstemplate
+https://40923220.github.io/cd2022/
