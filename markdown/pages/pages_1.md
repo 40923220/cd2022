@@ -2,13 +2,13 @@ Title: About
 
 ## cmstemplate
 
-課程倉儲: <a href="https://github.com/mdecourse/cmstemplate">https://github.com/mdecourse/cmstemplate</a>
+課程倉儲: <a href="https://github.com/40923220/cd2022">https://40923220github.com/cd2022/cmstemplate</a>
 
-內容管理: <a href="https://mdecourse.github.io/cmstemplate/">https://mdecourse.github.io/cmstemplate/</a>
+內容管理: <a href="https://40923220.github.io/cd2022/index.html">https://40923220.github.io/cd2022/index.html</a>
 
-課程投影片: <a href="https://mdecourse.github.io/cmstemplate/reveal">https://mdecourse.github.io/cmstemplate/reveal</a>
+課程投影片: <a href="https://409232202.github.io/cd2022/reveal/index.html">https://40923220.github.io/cd2022/reveal/index.html</a>
 
-課程網誌: <a href="https://mdecourse.github.io/cmstemplate/blog">https://mdecourse.github.io/cmstemplate/blog</a>
+課程網誌: <a href="https://40923220.github.io/cd2022/blog/index.html">https://40923220.github.io/cd2022/blog/index.html</a>
 
 
 
