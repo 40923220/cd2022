@@ -2,7 +2,7 @@ Title: About
 
 ## cmstemplate
 
-課程倉儲: <a href="https://github.com/40923220/cd2022">https://40923220github.com/cd2022/cmstemplate</a>
+課程倉儲: <a href="https://github.com/40923220/cd2022">https://github.com/40923220/cd2022</a>
 
 內容管理: <a href="https://40923220.github.io/cd2022/conentent/index.html">https://40923220.github.io/cd2022/content/index.html</a>
 
