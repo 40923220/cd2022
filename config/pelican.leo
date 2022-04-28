@@ -169,7 +169,7 @@ vertical: body pane on the botton</t>
 <t tx="yen.20170108171733.2">@language python
 import os
 
-os.system("pelican markdown -o blog -s local_publishconf.py")
+os.system("pelican markdown  -o blog -s local_publishconf.py")
 g.es("admin pelican 近端執行完畢")
 
 
